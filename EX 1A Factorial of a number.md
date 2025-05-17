@@ -29,8 +29,8 @@ To write a program to create a factorial of a number recursively.
 ```
 /*
 Program to implement Reverse a String
-Developed by: T.ESHWAR
-Register Number:  212223230054
+Developed by: Iyalarasu C
+Register Number:  2122230469
 */
 ```
 
